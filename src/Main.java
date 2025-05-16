@@ -30,6 +30,7 @@ public class Main {
         //Stack methods:
         placesToVisit.push("Tokyo");
        // System.out.println(placesToVisit);
+        System.out.println("Pushing to master");
     }
 
     public static void removeElements(LinkedList<String> placesToNotVisit) {
